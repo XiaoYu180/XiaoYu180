@@ -1,6 +1,9 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
 <!--
 **XiaoYu180/XiaoYu180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
